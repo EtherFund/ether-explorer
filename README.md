@@ -1,4 +1,5 @@
 ether-explorer
 ==============
 
-Explore the Ethereum blockchain
+Explore the Ethereum blockchain http://ether.fund/explorer
+
