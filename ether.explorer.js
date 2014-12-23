@@ -20,7 +20,7 @@ function getBlocks() {
 	args.start = 0;
 	args.range = 10;
 	
-	// get blocks
+	// list blocks
 	etherface.block('list', args, function(blocks) {
 		// todo: stop animation;
 		//console.log(blocks);
